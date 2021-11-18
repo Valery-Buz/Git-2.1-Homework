@@ -10,7 +10,7 @@
 
 ![Title](Images/Logo.png)
 
-```css
+```
 ```
 <html>
 <head>
@@ -18,7 +18,7 @@
 selector {
     font-family: "Awesome", Arial, sans-serif;
     color: red;
-      }
+}
 </style>
 </head>
 <body>
