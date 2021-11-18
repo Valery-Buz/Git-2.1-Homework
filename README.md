@@ -8,7 +8,8 @@
 
 ### _Логотип_:
 
-![Title](Images/Logo.png)
+![Title](https://github.com/Valery-Buz/Git-2.1-Homework/tree/feature/code-documentation/images/Logo.png) 
+
 
 ```css
 ```
